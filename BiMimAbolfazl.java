@@ -1,4 +1,4 @@
-// package Quera;
+package Quera;
 import java.util.Scanner;
 
 public class BiMimAbolfazl {
